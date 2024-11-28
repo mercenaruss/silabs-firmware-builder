@@ -1,7 +1,7 @@
 name: ZigStar MG24 HW Zigbee
 device: EFR32MG24A420F1536IM48
 base_project: src/zigbee_ncp
-sdk: "gecko_sdk:4.4.5"
+sdk: "gecko_sdk:4.4.4"
 toolchain: "12.2.1.20221205"
 
 gbl:
